@@ -19,9 +19,11 @@
 	<key>LSApplicationCategoryType</key>
 	<string></string>
 	<key>NSAppleMusicUsageDescription</key>
-	<string></string>
+	<string>Media library access</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string></string>
+	<string>Photo access</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera access</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
